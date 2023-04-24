@@ -1,0 +1,27 @@
+body { 
+    min-height: 100vh; 
+}
+
+.squar {
+    min-height: 50vh; 
+}
+
+.suma {
+    background-color: #91e9ff;
+}
+
+.resta {
+    background-color: #75e3ff;
+}
+
+.multi {
+    background-color: #47d8fc;
+}
+
+.divi {
+    background-color: #1cd0fc;
+}
+
+p {
+    font-weight: bold;
+}
